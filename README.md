@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aatif-dev
+- 👋 Hi, I’m aatif-dev
 - 👀 I’m interested in Machine Learning Algos, Data Analysis
 - 🌱 I’m currently learning Deep Learning, Neural Network and Google Cloud Platform
 - 💞️ I’m looking to collaborate on Data analysis Projects
